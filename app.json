@@ -7,6 +7,10 @@
       "ios",
       "android",
       "web"
-    ]
+    ],
+    "orientation": "portrait",
+    "android": {
+      "softwareKeyboardLayoutMode": "pan"
+    }
   }
 }
